@@ -1,0 +1,31 @@
+export const lightTheme = {
+  background: '#F5F7F2',
+  surface: '#FFFFFF',
+  primary: '#668B69',
+  primaryLight: '#E5EFE3',
+  text: '#28352B',
+  secondaryText: '#758076',
+  border: '#E1E7DF',
+  danger: '#C65F5F',
+  calories: '#5B8F71',
+  protein: '#E5A04B',
+  fat: '#9A82C4',
+  carbs: '#E17F72',
+  ringTrack: '#E8EDE9',
+};
+
+export const darkTheme = {
+  background: '#171D19',
+  surface: '#232B25',
+  primary: '#91B994',
+  primaryLight: '#354638',
+  text: '#F0F4EF',
+  secondaryText: '#ADB8AE',
+  border: '#39443B',
+  danger: '#F08A8A',
+  calories: '#8CC5A0',
+  protein: '#F2BD72',
+  fat: '#B9A5E0',
+  carbs: '#F09A8E',
+  ringTrack: '#39443D',
+};
